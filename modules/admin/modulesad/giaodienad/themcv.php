@@ -13,8 +13,6 @@
         </div>
     </div>
 </div>
-//day la cmt 
-<div></div>
 <script>
     function themcv() {
         var cv = $('#tencv').val();
