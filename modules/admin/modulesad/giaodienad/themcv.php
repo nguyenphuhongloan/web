@@ -13,7 +13,8 @@
         </div>
     </div>
 </div>
-<!-- <script>
+//push
+<script>
     function themcv() {
         var cv = $('#tencv').val();
         $.post("modulesad/xuly.php", {
@@ -26,4 +27,4 @@
                 alert("Thêm thất bại");
         });
     }
-</script> -->
+</script>
