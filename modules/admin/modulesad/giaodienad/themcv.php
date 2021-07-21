@@ -13,7 +13,6 @@
         </div>
     </div>
 </div>
-//push
 <script>
     function themcv() {
         var cv = $('#tencv').val();
